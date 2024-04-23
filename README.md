@@ -27,7 +27,7 @@ This project aims to scrape data from Myntra's website using Python. Myntra is a
   cd web-data-scrapping
 ```
 
- 3. Run the myntra.py script:
+ 2. Run the myntra.py script:
 
  ```bash
   python myntra.py
