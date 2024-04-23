@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 
-url = "https://www.myntra.com/gateway/v2/search/dresses?f=Gender%3Amen%20women%2Cwomen&p=1&rows=100&o=49"
+url = "https://www.myntra.com/gateway/v2/search/dresses?f=Gender%3Amen%20women%2Cwomen&p=1&rows=100&o=50"
 
 products = []
 
