@@ -5,7 +5,7 @@ This project aims to scrape data from Myntra's website using Python. Myntra is a
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11.5
 - Beautiful Soup 4
 - Requests library
 
